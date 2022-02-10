@@ -1,6 +1,21 @@
-# Getting Started with Create React App
+# Weather App (React) - The Odin Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## About 
+A project using the open weather API to get weather data from the city of your interest. 
+
+## Learning
+- React
+
+
+## Preview
+<img src="https://github.com/thejoshyee/weather-app/blob/main/weather-preview.png" width="50%" />
+
+
+## Live Demo
+
+
+
+
 
 ## Available Scripts
 
