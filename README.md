@@ -12,7 +12,7 @@ A project using the open weather API to get weather data from the city of your i
 
 
 ## Live Demo
-
+<a href="https://620468721d6981008dd3b35b--happy-lumiere-80b941.netlify.app/">Awesome Weather App</a>
 
 
 
