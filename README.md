@@ -1,10 +1,17 @@
 # Weather App (React) - The Odin Project
 
 ## About 
-A project using the open weather API to get weather data from the city of your interest. 
+A project using the open weather API and the Unsplash API. 
+When users type in a city name, the open weather API will show the current weather of that city and 
+the unsplash API will show an image related to that city in the background along with the name of the 
+person who took the photo. 
 
 ## Learning
 - React
+    - State
+    - Conditional Rendering
+- APIs
+- Fetch
 
 
 ## Preview
