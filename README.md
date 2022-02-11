@@ -19,7 +19,7 @@ person who took the photo.
 
 
 ## Live Demo
-<a href="https://620468721d6981008dd3b35b--happy-lumiere-80b941.netlify.app/">Awesome Weather App</a>
+<a href="https://nervous-newton-783d87.netlify.app/">Awesome Weather App</a>
 
 
 
