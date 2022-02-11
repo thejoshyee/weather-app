@@ -26,9 +26,7 @@ body {
   transition: 0.4s ease-out;
 }
 
-.app.warm {
-  background-image: url("./assets/warm-bg.jpg")
-}
+
 
 main {
   min-height: 100vh;
@@ -36,7 +34,6 @@ main {
   padding: 25px;
   display: flex;
   flex-direction: column;
-  height: 100vh;
   justify-content: space-between;
   
 }
@@ -67,6 +64,7 @@ main {
 
   transition: 0.4s ease;
 
+
 }
 
 .search-box .search-bar:focus {
@@ -76,7 +74,7 @@ main {
 
 .location-box .location {
   color: #fff;
-  font-size: 38px;
+  font-size: 45px;
   font-weight: 500;
   text-align: center;
   text-shadow: 3px 3px rgba(50, 50, 70, 0.5);
@@ -128,6 +126,36 @@ main {
   font-size: 0.7rem;
 }
 
-.weather-wrapper {
-  margin-top: -300px;
+.user-message {
+  color: white;
+  font-size: 1.3rem;
+  text-align: center;
+  margin-top: 5em;
+  font-style: italic;
 }
+.author {
+  margin-top: auto;
+}
+
+
+@media (min-width: 620px) {
+
+ .weather-box .temp {
+    font-size: 200px;
+  }
+
+  .weather-box .weather {
+    font-size: 3rem;
+  }
+
+  .location-box .date {
+    font-size: 35px;
+  }
+
+  .location-box .location {
+    font-size: 100px;
+  }
+
+}
+
+
