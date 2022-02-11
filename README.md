@@ -15,11 +15,11 @@ person who took the photo.
 
 
 ## Preview
-<img src="https://github.com/thejoshyee/weather-app/blob/main/weather-preview.png" width="50%" />
+<img src="https://github.com/thejoshyee/weather-app/blob/main/weather-preview-new.png" width="50%" />
 
 
 ## Live Demo
-<a href="https://nervous-newton-783d87.netlify.app/">Awesome Weather App</a>
+<a href="https://nervous-turing-2c2bbb.netlify.app/">Awesome Weather App</a>
 
 
 
