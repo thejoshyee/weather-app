@@ -1,4 +1,4 @@
-# Weather App (React) - The Odin Project
+# Weather App (React)
 
 ## About 
 A project using the open weather API and the Unsplash API. 
